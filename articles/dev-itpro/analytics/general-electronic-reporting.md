@@ -40,7 +40,7 @@ ER is a tool that you can use to configure formats for both incoming and outgoin
 
 The ER engine is targeted at business users instead of developers. Because you configure formats instead of code, the processes for creating and adjusting formats for electronic documents are faster and easier.
 
-ER currently supports the TEXT, XML, Microsoft Word document, and OPENXML worksheet formats. However, an extension interface provides support for additional formats.
+ER currently supports the TEXT, XML, PDF, JSON, Microsoft Word document, Microsoft Excel document,and OPENXML worksheet formats. However, an extension interface provides support for additional formats.
 
 ## Capabilities
 The ER engine has the following capabilities:
