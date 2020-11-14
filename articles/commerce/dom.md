@@ -46,7 +46,7 @@ The following illustration shows the lifecycle of a sales order in a DOM system.
 ## Set up DOM
 
 1. Go to **System administration \> Setup \> License configuration**.
-2. On the **Configuration keys** tab, expand the **Commerce** node, and then select the **Distributed Order Management** check box.
+2. On the **Configuration keys** tab, expand the **Retail** node, and then select the **Distributed Order Management** check box.
 3. Go to **Retail and Commerce \> Distributed order management \> Setup \> DOM parameters**.
 4. On the **General** tab, set the following values:
 
